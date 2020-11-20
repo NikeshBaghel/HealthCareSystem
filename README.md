@@ -27,3 +27,11 @@ If you are planning to run this code on your System then here are the Steps -
 ## Algorithms we used
 We used Random Forest Algorithm for the prediction of diabetes.
 
+# Screenshots
+1. ![Screenshot (15)](https://user-images.githubusercontent.com/71268351/99844202-c11f2800-2b98-11eb-9456-47294dca0288.png)
+2. ![Screenshot (16)](https://user-images.githubusercontent.com/71268351/99844299-e3b14100-2b98-11eb-8f06-4497a07ba645.png)
+3. ![Screenshot (18)](https://user-images.githubusercontent.com/71268351/99844413-0a6f7780-2b99-11eb-9adc-bfbc0023297b.png)
+4. ![Screenshot (19)](https://user-images.githubusercontent.com/71268351/99844490-296e0980-2b99-11eb-9076-d4b2ce2545ca.png)
+
+
+
