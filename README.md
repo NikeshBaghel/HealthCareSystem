@@ -21,7 +21,8 @@ If you are planning to run this code on your System then here are the Steps -
   - sklearn
 3. Download this repository.
 4. Navigate to the folder where it is downloaded.
-5. run HomePage.py file by opening the command prompt in the downloaded folder and type `streamlit run HomePage.py`
+5. run HomePage.py file by opening the command prompt in the downloaded folder and type - 
+            `streamlit run HomePage.py`
 6. It will automatically open the browser.
 
 ## Algorithms we used
